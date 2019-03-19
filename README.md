@@ -74,7 +74,7 @@ Now we'll need to activate the dev board to connect to the internet and start se
     PIN CODE xxxxx      //Pin Code
 ```
 
-#### Step 2 - Conenct and configure your Dev Board through a browser
+#### Step 2 - Connect and configure your Dev Board through a browser
 - The device has created a wifi hotspot which we'll now need to connect to. On your computer, open the wifi settings and connect ot the new network name displayed on your device (*"AZ3166_XXXXXX"*) **NOTE -** This will temporarily disconnect you from the internet. 
 - Once connected, open up your web browser and go to the IP address displayed on the device (*"192.168.0.1"*)
 - A new screen will appear and you'll be prompted to enter the details copied when you created earlier:
